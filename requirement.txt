@@ -71,7 +71,7 @@ itsdangerous==0.24
 japanese-holiday==0.0.4
 jdcal==1.3
 jedi==0.11.1
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jpholiday==0.0.2
 jsonschema==2.6.0
